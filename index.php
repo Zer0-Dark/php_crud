@@ -57,7 +57,7 @@
                     //select==get from to TABLE
                     $dbhost = 'localhost';
                     $dbuser = 'root';
-                    $dbpass = 'e01278113288EE';
+                    $dbpass = '';
                     $dbname = 'lab4';
                     $conn = mysqli_connect($dbhost, $dbuser, $dbpass);
 
